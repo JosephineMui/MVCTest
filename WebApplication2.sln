@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{064821A7-5EA9-43FE-BF9A-98271D5B52F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2.Tests", "WebApplication2.Tests\WebApplication2.Tests.csproj", "{5A32A18A-8B48-4595-BB66-7DAD7583F94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064821A7-5EA9-43FE-BF9A-98271D5B52F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064821A7-5EA9-43FE-BF9A-98271D5B52F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064821A7-5EA9-43FE-BF9A-98271D5B52F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064821A7-5EA9-43FE-BF9A-98271D5B52F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A32A18A-8B48-4595-BB66-7DAD7583F94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A32A18A-8B48-4595-BB66-7DAD7583F94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A32A18A-8B48-4595-BB66-7DAD7583F94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A32A18A-8B48-4595-BB66-7DAD7583F94B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
